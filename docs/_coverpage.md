@@ -8,5 +8,5 @@
 
 - 生如夏花之绚烂
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/happy-coding-gorilla/happy-coding-gorilla.github.io)
+[Get Started](#Headline)

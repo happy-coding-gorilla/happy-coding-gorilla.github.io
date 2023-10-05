@@ -233,8 +233,6 @@ public class WeChatPayUtil_ {
 }
 ```
 
-
-
-参考资料：
+### 参考资料
 
 [1] https://pay.weixin.qq.com/docs/merchant/apis/mini-program-payment/mini-prepay.html

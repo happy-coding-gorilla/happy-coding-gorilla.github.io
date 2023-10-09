@@ -157,7 +157,7 @@ public class WeChatPayUtil_ {
     }
 
     /**
-     * 生成小程序调起支付接口请求参数
+     * 小程序调起支付
      * <p>通过JSAPI下单接口获取到发起支付的必要参数prepay_id，然后使用微信支付提供的小程序方法调起小程序支付。</p>
      *
      * @param outTradeNo  商户订单号
